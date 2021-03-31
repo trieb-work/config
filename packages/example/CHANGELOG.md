@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.9.0](https://github.com/trieb-work/config/compare/example@1.8.0...example@1.9.0) (2021-03-31)
+
+
+### Features
+
+* add typescript default ([6ec3ef4](https://github.com/trieb-work/config/commit/6ec3ef4db5cfe398c1333c670f04510e514ebf37))
+
+
+
+
+
 # [1.8.0](https://github.com/trieb-work/config/compare/example@1.7.0...example@1.8.0) (2021-03-31)
 
 
