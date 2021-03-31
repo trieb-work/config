@@ -1,5 +1,5 @@
 {
- "extends": "@trieb-work/tsconfig-base",
+ "extends": "@trieb.work/tsconfig-base",
  "compilerOptions": {
    "noUnusedParameters": false
  }

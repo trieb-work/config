@@ -1,6 +1,6 @@
 {
-  "name": "@trieb-work/config",
-  "version": "0.1.8",
+  "name": "@trieb.work/config",
+  "version": "0.1.9",
   "description": "Default configs for eslint and typescript",
   "author": "Andreas Thomas <dev@chronark.com>",
   "homepage": "https://github.com/trieb-work/config#readme",
@@ -17,6 +17,5 @@
   },
   "devDependencies": {
     "lerna": "^4.0.0"
-  },
-  "workspaces": ["packages/*"]
+  }
 }

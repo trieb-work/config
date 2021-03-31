@@ -74,9 +74,9 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
-"@trieb-work/tsconfig-base@^1.1.0":
+"@trieb.work/tsconfig-base@^1.1.0":
   version "1.1.0"
-  resolved "https://npm.pkg.github.com/download/@trieb-work/tsconfig-base/1.1.0/bdaf8ffe686471f9770fc4b708872cbc86efa0c4c886ff0b77014b29f75bfde2#532120050527d61145dd149a5a3ceebf7ef77f95"
+  resolved "https://npm.pkg.github.com/download/@trieb.work/tsconfig-base/1.1.0/bdaf8ffe686471f9770fc4b708872cbc86efa0c4c886ff0b77014b29f75bfde2#532120050527d61145dd149a5a3ceebf7ef77f95"
   integrity sha512-lHbu499SxTtR9CiWYMkM1ogKrWX2cRf+Ibq6QxOuXWFcU2dDQL8dW59uvDxN5B+/NW+NqtxJx92J9IW8Dw+zvg==
 
 "@types/json-schema@^7.0.3":
