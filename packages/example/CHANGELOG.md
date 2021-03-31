@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.9.3](https://github.com/trieb-work/config/compare/example@1.9.2...example@1.9.3) (2021-03-31)
+
+**Note:** Version bump only for package example
+
+
+
+
+
 ## 1.9.2 (2021-03-31)
 
 **Note:** Version bump only for package example
