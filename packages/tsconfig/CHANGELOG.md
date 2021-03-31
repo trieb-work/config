@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/trieb-work/config/compare/@trieb-work/tsconfig-base@1.1.0...@trieb-work/tsconfig-base@1.2.0) (2021-03-31)
+
+
+### Features
+
+* add peer dependencies ([684bb91](https://github.com/trieb-work/config/commit/684bb91465609c69f96ed8354069cb645f335239)), closes [#1](https://github.com/trieb-work/config/issues/1) [#2](https://github.com/trieb-work/config/issues/2)
+
+
+
+
+
 # [1.1.0](https://github.com/trieb-work/config/compare/@trieb-work/tsconfig-base@0.2.0...@trieb-work/tsconfig-base@1.1.0) (2021-03-31)
 
 
