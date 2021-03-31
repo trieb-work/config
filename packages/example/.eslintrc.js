@@ -1,3 +1,3 @@
 module.exports = {
-    extends: "@trieb-work/eslint"
+    extends: "@trieb-work/eslint-config-base"
 };

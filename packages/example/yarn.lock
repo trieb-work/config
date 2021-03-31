@@ -59,10 +59,10 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
-"@trieb-work/eslint@^0.3.0":
-  version "0.3.0"
-  resolved "https://npm.pkg.github.com/download/@trieb-work/eslint/0.3.0/06e85e211b26c1e7def14afc78628f1cdaab5890af7beee202cb5615303575c1#3ceed89f03ecb2406f9231eb1d851fd1fe331aab"
-  integrity sha512-swyqjr16rOtOjh6JI6ZCAoqMju2A8l4LtDaAldDWKzKtOaUHlz8PTB+5MiaD28tpr6gkGvXyw/6X9kpF63fHIw==
+"@trieb-work/eslint-config-base@^0.3.0":
+  version "0.4.0"
+  resolved "https://npm.pkg.github.com/download/@trieb-work/eslint-config-base/0.4.0/4c7e129b3031bf6b4b2c9baf87d0925518af28040313bc6a9a8c0a8f6545e6e5#da0bac7911423a5e015be2bb57cff3a1769ecf9a"
+  integrity sha512-BhzglulsNE6z5Gp3En0qW5QcL1E/H0GvAUunKPe7PR8LIVw5UkC2rsnlgd+gBsWazDB7mca1MG1qXgswVtZfAw==
 
 "@types/json-schema@^7.0.3":
   version "7.0.7"

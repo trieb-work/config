@@ -16,6 +16,7 @@
     "url": "https://github.com/trieb-work/config/issues"
   },
   "devDependencies": {
+    "eslint-plugin-jsx-a11y": "^6.4.1",
     "lerna": "^3.22.1"
   }
 }

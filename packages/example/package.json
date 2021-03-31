@@ -15,9 +15,7 @@
   },
   "private": true,
   "devDependencies": {
-    "@trieb-work/eslint": "^0.3.0",
-    "@typescript-eslint/eslint-plugin": "^4.20.0",
-    "@typescript-eslint/parser": "^4.20.0",
+    "@trieb-work/eslint-config-base": "^0.3.0",
     "eslint": "^7.23.0"
   }
 }
