@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/trieb-work/config/compare/@trieb-work/eslint-config-base@0.4.0...@trieb-work/eslint-config-base@0.5.0) (2021-03-31)
+
+
+### Features
+
+* add eslint-plugin-jsx-a11y ([f890389](https://github.com/trieb-work/config/commit/f8903896d3e03b9a1dbf99f4f605c8a3964d8401))
+
+
+
+
+
 # 0.4.0 (2021-03-31)
 
 
