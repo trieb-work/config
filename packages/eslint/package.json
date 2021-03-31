@@ -1,5 +1,5 @@
 {
-  "name": "@trieb-work/eslint",
+  "name": "@trieb-work/eslint-config-base",
   "version": "0.3.0",
   "description": "Default eslint config",
   "author": "Andreas Thomas <dev@chronark.com>",
