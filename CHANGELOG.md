@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.5](https://github.com/trieb-work/config/compare/v0.2.4...v0.2.5) (2021-03-31)
+
+
+### Bug Fixes
+
+* fix name ([c368fc8](https://github.com/trieb-work/config/commit/c368fc88847f86c8734abe6471414832a3cb8237))
+
+
+
+
+
 ## [0.2.4](https://github.com/trieb-work/config/compare/v0.2.3...v0.2.4) (2021-03-31)
 
 
