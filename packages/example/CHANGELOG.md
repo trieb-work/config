@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/trieb-work/config/compare/example@1.1.0...example@1.2.0) (2021-03-31)
+
+
+### Features
+
+* add deps as production ([d2a2224](https://github.com/trieb-work/config/commit/d2a2224b4938b83bff1dd47473235d92a85ef558))
+
+
+
+
+
 # [1.1.0](https://github.com/trieb-work/config/compare/example@1.0.2...example@1.1.0) (2021-03-31)
 
 
