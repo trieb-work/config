@@ -1,5 +1,5 @@
 {
-  "name": "@triebwork/eslint",
+  "name": "@trieb-work/eslint",
   "version": "0.2.4",
   "description": "Default eslint config",
   "author": "Andreas Thomas <dev@chronark.com>",
@@ -19,5 +19,5 @@
   "peerDependencies": {
     "eslint": "^7.23.0"
   },
-  "gitHead": "4b91ee35338833977e78ccde9a284105353ced00"
+  "gitHead": "583bcdeee1afbffaaf307b16c86617bcc952664e"
 }
