@@ -19,13 +19,9 @@ jobs:
         with:
           node-version: '14'
 
-      - run: yarn install
       - run: git config --global user.email ${{ secrets.GIT_USER_EMAIL }}
       - run: git config --global user.name ${{ secrets.GIT_USER_NAME }}
 
-      # print what changed
-      - run: yarn lerna changed
-
       # create new version (& push to github) (skips ci to avoid an infinite loop)
-      - run: echo "@trieb-work:registry=https://npm.pkg.github.com_authToken=${{ secrets.GITHUB_TOKEN }}" >> .npmrc 
-      - run: yarn lerna publish -y
+      - run: echo "@trieb-work:registry=https://npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" >> .npmrc 
+      - run: npx lerna publish -y
