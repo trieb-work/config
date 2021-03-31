@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/trieb-work/config/issues"
   },
-  "gitHead": "babf65b11a309590dba8d09bf1c5fd6f06f71fa5",
+  "gitHead": "cdaaf8f41e5f50efdf579128a1d63b660e86701b",
   "peer-dependencies": {
     "typescript": "^4.2.3"
   }
