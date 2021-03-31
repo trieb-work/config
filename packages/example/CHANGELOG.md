@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/trieb-work/config/compare/example@1.2.0...example@1.3.0) (2021-03-31)
+
+
+### Features
+
+* add eslint-plugin-react ([da9ea38](https://github.com/trieb-work/config/commit/da9ea38a1a4bcf5488c80afd0cb9cdcdbf7a7570))
+
+
+
+
+
 # [1.2.0](https://github.com/trieb-work/config/compare/example@1.1.0...example@1.2.0) (2021-03-31)
 
 
