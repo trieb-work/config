@@ -23,5 +23,5 @@ jobs:
       - run: git config --global user.name ${{ secrets.GIT_USER_NAME }}
 
       # create new version (& push to github) (skips ci to avoid an infinite loop)
-      - run: echo "@trieb-work:registry=https://npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" >> .npmrc 
+      - run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" > .npmrc 
       - run: npx lerna publish -y
