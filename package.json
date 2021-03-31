@@ -1,11 +1,10 @@
 {
   "name": "@trieb-work/config",
   "version": "0.1.8",
-  "description": "> TODO: description",
+  "description": "Default configs for eslint and typescript",
   "author": "Andreas Thomas <dev@chronark.com>",
   "homepage": "https://github.com/trieb-work/config#readme",
-  "license": "ISC",
-  "main": "src/index.js",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/trieb-work/config.git"
