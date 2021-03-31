@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/trieb-work/config/compare/example@1.3.0...example@1.4.0) (2021-03-31)
+
+
+### Features
+
+* wip ([cac3e3d](https://github.com/trieb-work/config/commit/cac3e3d6b5516af4c3a06abbcb4080eef296ad58))
+
+
+
+
+
 # [1.3.0](https://github.com/trieb-work/config/compare/example@1.2.0...example@1.3.0) (2021-03-31)
 
 
