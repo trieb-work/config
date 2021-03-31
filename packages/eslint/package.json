@@ -13,6 +13,7 @@
   "bugs": {
     "url": "https://github.com/trieb-work/config/issues"
   },
+  "files":["./index.js"],
   "devDependencies": {
     "eslint-config-airbnb": "^18.2.1"
   },
