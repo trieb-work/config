@@ -1,31 +1,22 @@
 {
   "name": "eslint",
-  "version": "0.1.6",
-  "description": "> TODO: description",
+  "version": "0.0.0",
+  "description": "Default eslint config",
   "author": "Andreas Thomas <dev@chronark.com>",
-  "homepage": "https://github.com/trieb-work/config#readme",
-  "license": "ISC",
-  "main": "lib/eslint.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
+  "homepage": "https://github.com/trieb-work/config/tree/master/packages/eslint#readme",
+  "license": "MIT",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/trieb-work/config.git"
-  },
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
     "url": "https://github.com/trieb-work/config/issues"
   },
   "devDependencies": {
-    "eslint": "^7.23.0",
     "eslint-config-airbnb": "^18.2.1"
   },
-  "gitHead": "3d5bd7938315d627f83c638a4410473b4ee4a604"
+  "peerDependencies": {
+    "eslint": "^7.23.0"
+  }
 }

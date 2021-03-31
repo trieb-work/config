@@ -1,13 +1,22 @@
 {
-  "name": "config",
-  "version": "0.1.0",
-  "description": "Common configs reused in our applications",
-  "main": "index.js",
-  "repository": "git@github.com:trieb-work/config.git",
+  "name": "@trieb-work/config",
+  "version": "0.1.8",
+  "description": "> TODO: description",
   "author": "Andreas Thomas <dev@chronark.com>",
-  "license": "MIT",
+  "homepage": "https://github.com/trieb-work/config#readme",
+  "license": "ISC",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trieb-work/config.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/trieb-work/config/issues"
+  },
   "devDependencies": {
     "lerna": "^3.22.1"
   }
-  
 }
