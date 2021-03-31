@@ -54,9 +54,9 @@
     strip-json-comments "^3.1.1"
 
 "@trieb-work/eslint-config-base@^0.3.0":
-  version "0.7.0"
-  resolved "https://npm.pkg.github.com/download/@trieb-work/eslint-config-base/0.7.0/7d66b0540920163c72ce85c0b8319ebb97eab71ac2f1781079665e92d6639e11#b45c94f6f6918716dbb5ca969a756916fdb18ce9"
-  integrity sha512-4qzOkuQxKzrrEVGXWJezhVc1CFM2WHuSlTz/29t8yGH6Tl9eUSFPc+UpVYy6ZClHzRJeHuYkTLmYBBhB7nGdpA==
+  version "0.8.0"
+  resolved "https://npm.pkg.github.com/download/@trieb-work/eslint-config-base/0.8.0/5638528ad85f6683c1a3a28ade0a61af03375d4cadbfd05ceffef55a5d02f9ad#fe473fbdb004a14d2fbfd5ebc74d081d8e82bde3"
+  integrity sha512-nb75OZnIqT1BQN/YFCdUarWXK/LEzAdZJG1pxHjclx2Qpcng7JbqL5ANMvm0nPsS4kC3O4E8pAw43Khcb+loQA==
   dependencies:
     eslint-config-airbnb "^18.2.1"
     eslint-plugin-jsx-a11y "^6.4.1"
