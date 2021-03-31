@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.3](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.3.2...@trieb.work/eslint-config-base@1.3.3) (2021-03-31)
+
+
+### Bug Fixes
+
+* add publisherconfig ([e04a0c1](https://github.com/trieb-work/config/commit/e04a0c15e3045088383846529d6a65f356d10085))
+
+
+
+
+
 ## [1.3.2](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.3.1...@trieb.work/eslint-config-base@1.3.2) (2021-03-31)
 
 

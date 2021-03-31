@@ -1,6 +1,6 @@
 {
   "name": "@trieb.work/tsconfig-base",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "A default tsconfig",
   "author": "Andreas Thomas <dev@chronark.com>",
   "homepage": "https://github.com/trieb-work/config/tree/master/packages/tsconfig#readme",
@@ -10,7 +10,7 @@
     "tsconfig.json"
   ],
   "publishConfig": {
-    "access":"public"
+    "access": "public"
   },
   "repository": {
     "type": "git",
