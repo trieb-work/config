@@ -19,6 +19,6 @@ module.exports = {
       "react/jsx-indent": ["error", 4],
       "react/jsx-indent-props": ["error", 4],
       "object-curly-newline": "off",
-      "max-len": [2, { "code": 155, "ignoreUrls": true }]
+      "max-len": [2, { "code": 154, "ignoreUrls": true }]
     }
   };
