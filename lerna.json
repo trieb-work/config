@@ -9,5 +9,6 @@
       "registry": "https://npm.pkg.github.com",
       "allowBranch": "main"
     }
-  }
+  },
+  "version": "0.0.0"
 }
