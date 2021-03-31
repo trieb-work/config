@@ -3,13 +3,13 @@ on:
   push:
     branches: [main]
 jobs:
-  build:
+  release:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v2
       with:
         node-version: '15.x'
-    - run: npx lerna publish
+    - run: npx lerna publish -y
       env:
         NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
