@@ -1,0 +1,13 @@
+{
+  "name": "config",
+  "version": "0.1.0",
+  "description": "Common configs reused in our applications",
+  "main": "index.js",
+  "repository": "git@github.com:trieb-work/config.git",
+  "author": "Andreas Thomas <dev@chronark.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+  
+}
