@@ -14,7 +14,7 @@
     "url": "https://github.com/trieb-work/config/issues"
   },
   "files": [
-    "./index.js"
+    "./eslintrc.js"
   ],
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.20.0",
@@ -26,7 +26,9 @@
     "eslint-plugin-react-hooks": "^4.2.0"
   },
   "peerDependencies": {
+    "typescript": "^4.2.3",
     "eslint": "^7.23.0"
+
   },
   "gitHead": "583bcdeee1afbffaaf307b16c86617bcc952664e"
 }

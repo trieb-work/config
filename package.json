@@ -10,7 +10,7 @@
     "url": "git+https://github.com/trieb-work/config.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "publish": "lerna publish -y"
   },
   "bugs": {
     "url": "https://github.com/trieb-work/config/issues"

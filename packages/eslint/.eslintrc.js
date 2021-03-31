@@ -8,9 +8,10 @@ module.exports = {
       '@typescript-eslint',
     ],
     extends: [
-        'airbnb-typescript'
+      'eslint:recommended',
+      'airbnb-typescript',
     ],
-    rules:{
+    rules: {
       "@typescript-eslint/indent": ["error", 4],
       "react/react-in-jsx-scope": "off",
       "import/prefer-default-export": "off",
@@ -18,6 +19,6 @@ module.exports = {
       "react/jsx-indent": ["error", 4],
       "react/jsx-indent-props": ["error", 4],
       "object-curly-newline": "off",
-      "max-len": [2, {"code": 155, "ignoreUrls": true }]
+      "max-len": [2, { "code": 155, "ignoreUrls": true }]
     }
-};
+  };
