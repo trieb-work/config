@@ -23,5 +23,6 @@ jobs:
       - run: git config --global user.name ${{ secrets.GIT_USER_NAME }}
 
       # create new version (& push to github) (skips ci to avoid an infinite loop)
-      - run: echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" > .npmrc
       - run: npx lerna publish -y
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
