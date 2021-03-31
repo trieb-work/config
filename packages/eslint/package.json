@@ -1,6 +1,6 @@
 {
   "name": "@trieb-work/eslint-config-base",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "description": "Default eslint config",
   "author": "Andreas Thomas <dev@chronark.com>",
   "homepage": "https://github.com/trieb-work/config/tree/master/packages/eslint#readme",
