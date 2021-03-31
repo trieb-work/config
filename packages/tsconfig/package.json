@@ -1,0 +1,19 @@
+{
+  "name": "tsconfig",
+  "version": "0.0.0",
+  "description": "A default tsconfig",
+  "author": "Andreas Thomas <dev@chronark.com>",
+  "homepage": "https://github.com/trieb-work/config/tree/master/packages/tsconfig#readme",
+  "license": "MIT",
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trieb-work/config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trieb-work/config/issues"
+  }
+}
