@@ -1,6 +1,6 @@
 {
   "name": "@triebwork/eslint",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Default eslint config",
   "author": "Andreas Thomas <dev@chronark.com>",
   "homepage": "https://github.com/trieb-work/config/tree/master/packages/eslint#readme",
