@@ -6,10 +6,25 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v2
-      with:
-        node-version: '15.x'
-    - run: npx lerna publish -y
-      env:
-        NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v2
+        with:
+            # pulls all commits (needed for lerna to correctly version)
+            # see https://stackoverflow.com/a/60184319/9285308 & https://github.com/actions/checkout
+            fetch-depth: "0"
+
+      # pulls all tags (needed for lerna to correctly version)
+      - run: git fetch --depth=1 origin +refs/tags/*:refs/tags/* # see https://stackoverflow.com/a/60184319/9285308
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - run: yarn install
+      - run: git config --global user.email ${{ secrets.GIT_USER_EMAIL }}
+      - run: git config --global user.name ${{ secrets.GIT_USER_NAME }}
+
+      # print what changed
+      - run: yarn lerna changed
+
+      # create new version (& push to github) (skips ci to avoid an infinite loop)
+      - run: yarn lerna publish -y
