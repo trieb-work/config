@@ -1,4 +1,4 @@
-name: Node.js Package
+name: Release on npmjs.org
 on:
   push:
     branches: [main]
@@ -24,6 +24,7 @@ jobs:
       - run: git config --global user.name ${{ secrets.GIT_USER_NAME }}
 
       - run: echo "//registry.npmjs.org/:_authToken=${{secrets.NPM_TOKEN}}" > .npmrc
-      - run: npm whoami
       - run: npx lerna publish -y
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         
