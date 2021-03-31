@@ -1,6 +1,6 @@
 {
   "name": "example",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "An example how to use these configs",
   "author": "Andreas Thomas <dev@chronark.com>",
   "homepage": "https://github.com/trieb-work/config/tree/master/packages/example#readme",
@@ -15,7 +15,7 @@
   },
   "private": true,
   "devDependencies": {
-    "@trieb-work/eslint-config-base": "^0.10.0",
+    "@trieb-work/eslint-config-base": "^0.11.0",
     "eslint": "^7.23.0",
     "typescript": "^4.2.3"
   }
