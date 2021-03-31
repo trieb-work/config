@@ -1,6 +1,6 @@
 {
   "name": "@trieb-work/eslint",
-  "version": "0.2.5",
+  "version": "0.3.0",
   "description": "Default eslint config",
   "author": "Andreas Thomas <dev@chronark.com>",
   "homepage": "https://github.com/trieb-work/config/tree/master/packages/eslint#readme",
@@ -13,7 +13,9 @@
   "bugs": {
     "url": "https://github.com/trieb-work/config/issues"
   },
-  "files":["./index.js"],
+  "files": [
+    "./index.js"
+  ],
   "devDependencies": {
     "eslint-config-airbnb": "^18.2.1"
   },

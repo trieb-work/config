@@ -1,0 +1,23 @@
+{
+  "name": "example",
+  "version": "1.0.1",
+  "description": "An example how to use these configs",
+  "author": "Andreas Thomas <dev@chronark.com>",
+  "homepage": "https://github.com/trieb-work/config/tree/master/packages/example#readme",
+  "license": "MIT",
+  "scripts": {
+    "fmt": "yarn lint && yarn format",
+    "format": "prettier --loglevel warn --write . ",
+    "lint": "eslint . --ext ts --ext tsx --ext js --fix"
+  },
+  "bugs": {
+    "url": "https://github.com/trieb-work/config/issues"
+  },
+  "private": true,
+  "devDependencies": {
+    "@trieb-work/eslint": "^0.3.0",
+    "@typescript-eslint/eslint-plugin": "^4.20.0",
+    "@typescript-eslint/parser": "^4.20.0",
+    "eslint": "^7.23.0"
+  }
+}
