@@ -27,4 +27,5 @@ jobs:
       - run: yarn lerna changed
 
       # create new version (& push to github) (skips ci to avoid an infinite loop)
+      - run: echo "@trieb-work:registry=https://npm.pkg.github.com_authToken=${{ secrets.GITHUB_TOKEN }}" >> .npmrc 
       - run: yarn lerna publish -y
