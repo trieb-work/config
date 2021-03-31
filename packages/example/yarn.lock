@@ -74,10 +74,10 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
-"@trieb-work/eslint-config-base@^0.10.0":
-  version "0.10.0"
-  resolved "https://npm.pkg.github.com/download/@trieb-work/eslint-config-base/0.10.0/69b60b43d3fb831858ca3281a5cfad60d2eea1808e20929f43c71093c4812c1b#883a71062e0556879b93f0f8778039f3748c2c04"
-  integrity sha512-wCpHeFf+TKyqcWqVIVC06+wm/UCS+uq741dy5zdm6M5t2mg4GVpF6sRh9PM8tsDeSC+89OHU0jSPC55jd6Yt+w==
+"@trieb-work/eslint-config-base@^0.11.0":
+  version "0.11.0"
+  resolved "https://npm.pkg.github.com/download/@trieb-work/eslint-config-base/0.11.0/f233afcbbd9180031a5bc494cabe5eda0aef89ba5e7479a2676685297818ed12#922c9cf8e0e953ecef39062572b0f6554e61ab49"
+  integrity sha512-wOH11bpPVFMDhKG1PYBgYfIceWQX76BJv/go1HkDhP9B7SIh8ep0/Z+qcTtyTBmg61Nu27T2kqomVuSSOUkdbg==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.20.0"
     eslint-config-airbnb "^18.2.1"
@@ -86,6 +86,11 @@
     eslint-plugin-jsx-a11y "^6.4.1"
     eslint-plugin-react "^7.23.1"
     eslint-plugin-react-hooks "^4.2.0"
+
+"@trieb-work/tsconfig-base@^0.2.0":
+  version "0.2.0"
+  resolved "https://npm.pkg.github.com/download/@trieb-work/tsconfig-base/0.2.0/65d03bf674d3d248a509e6b1d5f2a4b0a0bfd7e3e14533e86d515fb4dbfbdf58#8994851797f729e4e8114acec3c43e10e0bf6650"
+  integrity sha512-bfd9zMaarmGLncRTBz8If9FWPgwX73AWIhv2knohbPFG63Ps5wau/Xl5nxwsvAtW1IttlcOOOAD9fwWUH5cSeQ==
 
 "@types/json-schema@^7.0.3":
   version "7.0.7"
