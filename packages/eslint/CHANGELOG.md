@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.7](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.3.5...@trieb.work/eslint-config-base@1.3.7) (2021-03-31)
+
+
+### Bug Fixes
+
+* set token via npmrc ([005ae5c](https://github.com/trieb-work/config/commit/005ae5c7515f9036c84597ae54fbc9b6af2fd9bd))
+
+
+
+
+
 ## [1.3.5](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.3.4...@trieb.work/eslint-config-base@1.3.5) (2021-03-31)
 
 **Note:** Version bump only for package @trieb.work/eslint-config-base
