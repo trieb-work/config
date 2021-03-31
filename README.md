@@ -5,8 +5,7 @@
 1. Install dependencies
 
 ```
-yarn add typescript eslint
-yarn add -D @trieb.work/eslint-config-base @trieb.work/tsconfig-base
+yarn add -D typescript eslint @trieb.work/eslint-config-base @trieb.work/tsconfig-base
 
 ```
 
