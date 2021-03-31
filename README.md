@@ -4,9 +4,8 @@
 
 1. Install dependencies
 
-```
+```sh
 yarn add -D typescript eslint @trieb.work/eslint-config-base @trieb.work/tsconfig-base
-
 ```
 
 2. Create config files
