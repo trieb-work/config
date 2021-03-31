@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.3](https://github.com/trieb-work/config/compare/@trieb.work/tsconfig-base@1.2.2...@trieb.work/tsconfig-base@1.2.3) (2021-03-31)
+
+
+### Bug Fixes
+
+* bump ([3392876](https://github.com/trieb-work/config/commit/33928760e956ead959e2043f78f0cb23ba4245b3))
+
+
+
+
+
 ## [1.2.2](https://github.com/trieb-work/config/compare/@trieb-work/tsconfig-base@1.2.1...@trieb.work/tsconfig-base@1.2.2) (2021-03-31)
 
 
