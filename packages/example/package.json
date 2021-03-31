@@ -15,7 +15,7 @@
   },
   "private": true,
   "devDependencies": {
-    "@trieb-work/eslint-config-base": "^0.3.0",
+    "@trieb-work/eslint-config-base": "^0.10.0",
     "eslint": "^7.23.0",
     "typescript": "^4.2.3"
   }

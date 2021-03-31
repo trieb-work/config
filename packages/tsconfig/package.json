@@ -1,5 +1,5 @@
 {
-  "name": "tsconfig",
+  "name": "@trieb-work/tsconfig-base",
   "version": "0.1.0",
   "description": "A default tsconfig",
   "author": "Andreas Thomas <dev@chronark.com>",
@@ -15,5 +15,6 @@
   },
   "bugs": {
     "url": "https://github.com/trieb-work/config/issues"
-  }
+  },
+  "gitHead": "babf65b11a309590dba8d09bf1c5fd6f06f71fa5"
 }

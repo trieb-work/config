@@ -74,7 +74,7 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
-"@trieb-work/eslint-config-base@^0.3.0":
+"@trieb-work/eslint-config-base@^0.10.0":
   version "0.10.0"
   resolved "https://npm.pkg.github.com/download/@trieb-work/eslint-config-base/0.10.0/69b60b43d3fb831858ca3281a5cfad60d2eea1808e20929f43c71093c4812c1b#883a71062e0556879b93f0f8778039f3748c2c04"
   integrity sha512-wCpHeFf+TKyqcWqVIVC06+wm/UCS+uq741dy5zdm6M5t2mg4GVpF6sRh9PM8tsDeSC+89OHU0jSPC55jd6Yt+w==
