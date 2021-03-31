@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/trieb-work/config/compare/@trieb-work/eslint-config-base@1.2.3...@trieb-work/eslint-config-base@1.3.0) (2021-03-31)
+
+
+### Features
+
+* wip ([90a7449](https://github.com/trieb-work/config/commit/90a744959014ea6cb8f2446f42e3b85fb6dfe5f4))
+
+
+
+
+
 ## [1.2.3](https://github.com/trieb-work/config/compare/@trieb-work/eslint-config-base@1.2.2...@trieb-work/eslint-config-base@1.2.3) (2021-03-31)
 
 **Note:** Version bump only for package @trieb-work/eslint-config-base
