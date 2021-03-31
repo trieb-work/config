@@ -24,7 +24,7 @@ jobs:
       - run: git config --global user.name ${{ secrets.GIT_USER_NAME }}
 
       - run: echo "//registry.npmjs.org/:_authToken=${{secrets.NPM_TOKEN}}" > .npmrc
-      - run: npx lerna publish -y
+      - run: npx lerna publish -y --no-verify-access
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         
