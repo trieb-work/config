@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.4](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.4.1...@trieb.work/eslint-config-base@1.4.4) (2021-04-01)
+
+
+### Bug Fixes
+
+* change link to use main branch ([b90bd2c](https://github.com/trieb-work/config/commit/b90bd2c6f68f1120abb348b0fe30d28c47e29adc))
+* set entrypoint ([#4](https://github.com/trieb-work/config/issues/4)) ([6da77aa](https://github.com/trieb-work/config/commit/6da77aa1706f4100f23e2fb5390ec4ea772fce82))
+
+
+
+
+
 ## [1.4.3](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.4.1...@trieb.work/eslint-config-base@1.4.3) (2021-04-01)
 
 
