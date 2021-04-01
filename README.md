@@ -36,3 +36,11 @@ module.exports = {
 ```
 
 4. Enjoy a slice of pizza.
+
+# Contributing
+
+It is important to work with [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) because otherwise the packages can not be versioned correctly and deployed automatically.
+
+[Commitizen](https://github.com/commitizen/cz-cli) is your friend.
+
+Versioning follows semantic versioning and are managed automatically when using `fix:` -> `patch`, `feat:` -> `minor`, or when including breaking changes -> `major`
