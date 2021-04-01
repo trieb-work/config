@@ -5,7 +5,7 @@
   "author": "Andreas Thomas <dev@chronark.com>",
   "homepage": "https://github.com/trieb-work/config/tree/master/packages/eslint#readme",
   "license": "MIT",
-  "main": "index.js",
+  "main": ".eslintrc.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/trieb-work/config.git"
