@@ -1,6 +1,6 @@
 {
   "name": "@trieb.work/eslint-config-base",
-  "version": "1.5.0",
+  "version": "1.5.1-alpha.0+353d696",
   "description": "Default eslint config designed to be used on typescript projects.",
   "author": "Andreas Thomas <dev@chronark.com>",
   "homepage": "https://github.com/trieb-work/config/tree/main/packages/eslint#readme",
@@ -34,5 +34,5 @@
     "eslint": "^7.23.0",
     "typescript": "^4.2.3"
   },
-  "gitHead": "7457481f728ffca01d34193c98bf65c3f3ff4aeb"
+  "gitHead": "353d6967aeb77e8496f48d2d6969021831991d5b"
 }
