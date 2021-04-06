@@ -4,9 +4,30 @@ module.exports = {
   parserOptions: {
     project: "./tsconfig.json",
   },
-  plugins: ["@typescript-eslint"],
-  extends: ["eslint:recommended", "airbnb-typescript"],
+  plugins: ["@typescript-eslint", "prettier"],
+  extends: [
+    /*
+     * Always a good idea to start with sane defaults
+     */
+    "eslint:recommended",
+
+    /*
+     * Our main source of fules comes from airbnb.
+     */
+    "airbnb-typescript",
+
+    /*
+     * Required to integrate prettier into eslint
+     */
+    "plugin:prettier/recommended",
+  ],
   rules: {
+    /*
+     * This reads all definitions from a local prettier config file and applies the correct
+     * eslint rules automatically.
+     */
+    "prettier/prettier": ["error"],
+
     "@typescript-eslint/indent": ["error", 4],
     "react/react-in-jsx-scope": "off",
 

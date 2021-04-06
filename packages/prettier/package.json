@@ -1,0 +1,22 @@
+{
+  "name": "@trieb.work/prettier-base",
+  "version": "0.0.0",
+  "description": "Default prettier config designed to be used on all our projects.",
+  "author": "Andreas Thomas <dev@chronark.com>",
+  "homepage": "https://github.com/trieb-work/config/tree/main/packages/prettier#readme",
+  "license": "MIT",
+  "main": ".prettierrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trieb-work/config.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/trieb-work/config/issues"
+  },
+  "files": [
+    ".prettierrc.js"
+  ]
+}
