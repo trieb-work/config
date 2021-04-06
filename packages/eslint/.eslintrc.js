@@ -28,7 +28,6 @@ module.exports = {
      */
     "prettier/prettier": ["error"],
 
-    "@typescript-eslint/indent": ["error", 4],
     "react/react-in-jsx-scope": "off",
 
     /*
