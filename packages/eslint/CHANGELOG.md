@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.4.9...@trieb.work/eslint-config-base@1.5.0) (2021-04-06)
+
+
+### Features
+
+* disable react/prop-types and react/jsx-props-no-spreading ([f222daf](https://github.com/trieb-work/config/commit/f222dafae68885244a4d7caabf7367ef0adac223))
+
+
+
+
+
 ## [1.4.9](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.4.7...@trieb.work/eslint-config-base@1.4.9) (2021-04-01)
 
 **Note:** Version bump only for package @trieb.work/eslint-config-base
