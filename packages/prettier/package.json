@@ -1,6 +1,6 @@
 {
   "name": "@trieb.work/prettier-base",
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.0-alpha.2",
   "description": "Default prettier config designed to be used on all our projects.",
   "author": "Andreas Thomas <dev@chronark.com>",
   "homepage": "https://github.com/trieb-work/config/tree/main/packages/prettier#readme",
