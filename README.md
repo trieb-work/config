@@ -26,13 +26,9 @@ module.exports = {
 
 ```js
 // .prettierrc.js
-const base = require("@trieb.work/prettier-base")
-module exports = {
-  // Override something if you want
-  tabWidth: 9000,
-  // Add base
-  ...base,
-}
+module.exports = {
+  ...require("@trieb.work/prettier-base"),
+};
 ```
 
 3. Add npm scripts
@@ -51,3 +47,9 @@ module exports = {
 ## Publishing
 
 You can publish by running `yarn lerna publish`
+
+## FAQ
+
+- Q: What do I do when I receive the following warning: `Warning: React version was set to "detect" in eslint-plugin-react settings, but the "react" package is not installed. Assuming latest React version for linting.`
+
+  A: This happens if react is not installed in the same package where you run your linting. For example in a monorepo where you install eslint etc in the root directory and have a dedicated `/frontend` directory with your react application. Just ignore the warning.

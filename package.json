@@ -10,12 +10,14 @@
     "url": "git+https://github.com/trieb-work/config.git"
   },
   "scripts": {
-    "publish": "lerna publish -y"
+    "publish": "lerna publish -y",
+    "fmt": "prettier --write ."
   },
   "bugs": {
     "url": "https://github.com/trieb-work/config/issues"
   },
   "devDependencies": {
-    "lerna": "^4.0.0"
+    "lerna": "^4.0.0",
+    "prettier": "^2.2.1"
   }
 }
