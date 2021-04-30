@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/trieb-work/config/compare/@trieb.work/tsconfig-base@1.5.0...@trieb.work/tsconfig-base@1.6.0) (2021-04-30)
+
+
+### Features
+
+* allow incremental build ([2a5d198](https://github.com/trieb-work/config/commit/2a5d198a4b35c06b9307a9dbf2b96dbe88d8e63d))
+
+
+
+
+
 # 1.5.0 (2021-04-30)
 
 
