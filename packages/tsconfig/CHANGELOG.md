@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.5.0 (2021-04-30)
+
+
+### Features
+
+* preserve jsx ([ccbcd53](https://github.com/trieb-work/config/commit/ccbcd534c459cc46fff0f7bcaddb9bed62f3cf86))
+
+
+
+
+
 # [1.4.0](https://github.com/trieb-work/config/compare/@trieb.work/tsconfig-base@1.3.1...@trieb.work/tsconfig-base@1.4.0) (2021-04-13)
 
 
