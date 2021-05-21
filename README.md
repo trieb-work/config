@@ -67,7 +67,7 @@ npm set script tsc "tsc"
 
 ```bash
 git clone https://github.com/trieb-work/config.git
-cp -r config/packages/husky/hooks/* my-project-root/.husky/hooks/
+cp -r config/packages/husky/hooks/* my-project-root/.husky/
 ```
 
 ## Publishing
