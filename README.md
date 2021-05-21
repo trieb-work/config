@@ -5,7 +5,7 @@
 1. Install dependencies
 
 ```sh
-yarn add -D typescript eslint prettier @trieb.work/eslint-config-base @trieb.work/tsconfig-base @trieb.work/prettier-base husky
+yarn add -D typescript eslint prettier @trieb.work/eslint-config-base @trieb.work/tsconfig-base @trieb.work/prettier-base husky lint-staged
 ```
 
 2. Initialize husky
