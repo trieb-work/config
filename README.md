@@ -5,48 +5,74 @@
 1. Install dependencies
 
 ```sh
-yarn add -D typescript eslint prettier @trieb.work/eslint-config-base @trieb.work/tsconfig-base @trieb.work/prettier-base
+yarn add -D typescript eslint prettier @trieb.work/eslint-config-base @trieb.work/tsconfig-base @trieb.work/prettier-base husky
 ```
 
-2. Create config files
+2. Initialize husky
 
-```js
-//.eslintrc.js
+```bash
+yarn husky install
+```
+
+3. Create config files
+
+```bash
+# .eslintrc.js
+cat <<EOF >.eslintrc.js
 module.exports = {
   extends: "@trieb.work/eslint-config-base",
-};
-```
+}
+EOF
 
-```json
-//.tsconfig.json
+# tsconfig.json
+cat <<EOF > tsconfig.json
 {
   "extends": "@trieb.work/tsconfig-base"
 }
-```
+EOF
 
-```js
-// .prettierrc.js
+# .prettierrc.js
+cat <<EOF > .prettierrc.js
 module.exports = {
   ...require("@trieb.work/prettier-base"),
-};
+}
+EOF
+
+# .commitlintrc.json
+cat <<EOF > .commitlintrc.json
+{
+  "extends": ["@commitlint/config-conventional"]
+}
+EOF
+
+# .lintstagedrc
+cat <<EOF > .lintstagedrc
+{
+  "**.{ts,tsx}": ["yarn prettier --write", "yarn eslint --fix"],
+  "**.{json,md,mdx,css,html,js}": ["yarn prettier --write"]
+}
+EOF
 ```
 
 3. Add npm scripts
 
-```json
-"scripts": {
-    "fmt": "yarn lint && yarn format",
-    "format": "prettier --write .",
-    "lint": "eslint . --ext ts --ext tsx --ext js --fix",
-    "tsc": "tsc",
-}
+```bash
+npm set script fmt "yarn lint && yarn format"
+npm set script format "prettier --write ."
+npm set script lint "eslint . --ext ts --ext tsx --ext js --fix"
+npm set script tsc "tsc"
 ```
 
-4. Enjoy a slice of pizza.
+5. Copy the git hooks over to your repository
+
+```bash
+git clone https://github.com/trieb-work/config.git
+cp -r config/packages/husky/hooks/* my-project-root/husky/hooks/
+```
 
 ## Publishing
 
-You can publish by running `yarn lerna publish`
+Changes are automatically published when pushed to `main`
 
 ## Contributing
 
