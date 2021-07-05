@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.9.8 (2021-07-05)
+
+**Note:** Version bump only for package example
+
+
+
+
+
 ## [1.9.7](https://github.com/trieb-work/config/compare/example@1.9.6...example@1.9.7) (2021-05-31)
 
 **Note:** Version bump only for package example
