@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.8.0](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.7.0...@trieb.work/eslint-config-base@1.8.0) (2021-08-23)
+
+
+### Features
+
+* allow ternaries ([#68](https://github.com/trieb-work/config/issues/68)) ([43e3f54](https://github.com/trieb-work/config/commit/43e3f54b2501d42ccb7b147c850c219db1767e8e))
+
+
+
+
+
 # [1.7.0](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.6.11...@trieb.work/eslint-config-base@1.7.0) (2021-08-23)
 
 
