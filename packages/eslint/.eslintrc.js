@@ -53,5 +53,10 @@ export default {
      * Nextjs does this anyways and it's really handy for component controller logic
      */
     "react/jsx-props-no-spreading": "off",
+
+    /**
+     * We find them quite useful actually.
+     */
+    "no-nested-ternary": "off",
   },
 };
