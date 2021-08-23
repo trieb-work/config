@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.7.0](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.6.11...@trieb.work/eslint-config-base@1.7.0) (2021-08-23)
+
+
+### Features
+
+* disallows .foreach ([#67](https://github.com/trieb-work/config/issues/67)) ([318d55a](https://github.com/trieb-work/config/commit/318d55a5657530b1bed68d9e9533cbee82251d23)), closes [#62](https://github.com/trieb-work/config/issues/62)
+
+
+
+
+
 ## [1.6.11](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.6.10...@trieb.work/eslint-config-base@1.6.11) (2021-08-23)
 
 **Note:** Version bump only for package @trieb.work/eslint-config-base
