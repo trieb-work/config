@@ -1,9 +1,9 @@
-export default {
+exports.default =  {
   meta: {
     type: "suggestion",
     docs: {
       description: "enforce `for..of` loops over `Array.forEach`",
-      url: require("../url")(module),
+      url: "https://github.com/trieb-work/config",
     },
     schema: [],
   },
