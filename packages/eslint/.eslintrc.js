@@ -22,12 +22,6 @@ module.exports = {
     "plugin:prettier/recommended",
   ],
   rules: {
-    /**
-     * .foreach has lots of weird sideeffects, please don't use it.
-     */
-    // Disabled because it doesn't work yet
-    // "array-foreach": require("./lib/rules/array-foreach"),
-
     /*
      * This reads all definitions from a local prettier config file and applies the correct
      * eslint rules automatically.
