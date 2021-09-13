@@ -25,7 +25,7 @@ module.exports = {
     /**
      * .foreach has lots of weird sideeffects, please don't use it.
      */
-    "array-foreach": require("./rules/array-foreach"),
+    "array-foreach": require("./lib/rules/array-foreach"),
 
     /*
      * This reads all definitions from a local prettier config file and applies the correct
