@@ -16,7 +16,6 @@
   "bugs": {
     "url": "https://github.com/trieb-work/config/issues"
   },
-  
   "files": [
     "./eslintrc.js",
     "lib"
