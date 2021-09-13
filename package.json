@@ -1,6 +1,6 @@
 {
   "name": "@trieb.work/config",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Default configs for eslint and typescript",
   "author": "Andreas Thomas <dev@chronark.com>",
   "homepage": "https://github.com/trieb-work/config#readme",
