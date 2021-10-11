@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.8.18](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.8.17...@trieb.work/eslint-config-base@1.8.18) (2021-10-11)
+
+**Note:** Version bump only for package @trieb.work/eslint-config-base
+
+
+
+
+
 ## [1.8.17](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.8.16...@trieb.work/eslint-config-base@1.8.17) (2021-10-08)
 
 **Note:** Version bump only for package @trieb.work/eslint-config-base
