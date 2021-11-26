@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.4](https://github.com/trieb-work/config/compare/@trieb.work/tsconfig-base@1.6.3...@trieb.work/tsconfig-base@1.6.4) (2021-11-26)
+
+**Note:** Version bump only for package @trieb.work/tsconfig-base
+
+
+
+
+
 ## 1.6.3 (2021-11-26)
 
 **Note:** Version bump only for package @trieb.work/tsconfig-base

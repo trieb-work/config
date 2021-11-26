@@ -1,6 +1,6 @@
 {
   "name": "@trieb.work/tsconfig-base",
-  "version": "1.6.3",
+  "version": "1.6.4",
   "description": "A default tsconfig",
   "author": "Andreas Thomas <dev@chronark.com>",
   "homepage": "https://github.com/trieb-work/config/tree/master/packages/tsconfig#readme",
