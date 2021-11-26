@@ -4,7 +4,7 @@ module.exports = {
   parserOptions: {
     project: "./tsconfig.json",
   },
-  plugins: ["@typescript-eslint", "prettier"],
+  plugins: ["@typescript-eslint", "prettier", "import"],
   extends: [
     /*
      * Always a good idea to start with sane defaults
@@ -29,6 +29,8 @@ module.exports = {
     "prettier/prettier": ["error"],
 
     "react/react-in-jsx-scope": "off",
+
+    "react/jsx-filename-extension": [1, { extensions: [".ts", ".tsx"] }],
 
     /*
      * Named exports are almost always better because they break when the imported module changes
