@@ -1,6 +1,6 @@
 {
   "name": "@trieb.work/eslint-config-base",
-  "version": "1.8.22",
+  "version": "1.8.23",
   "description": "Default eslint config designed to be used on typescript projects.",
   "author": "Andreas Thomas <dev@chronark.com>",
   "homepage": "https://github.com/trieb-work/config/tree/main/packages/eslint#readme",
@@ -21,8 +21,8 @@
   ],
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.4.0",
-    "eslint-config-airbnb-typescript": "^16.1.0",
     "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-typescript": "^16.1.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
