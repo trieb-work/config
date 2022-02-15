@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2022-02-15)
+
+
+### Features
+
+* change tabwidth to 4 ([de0b4cb](https://github.com/trieb-work/config/commit/de0b4cb909a518e42705a3679fd93be28c68b0d9))
+
+
+
+
+
 ## [0.1.2](https://github.com/trieb-work/config/compare/@trieb.work/prettier-base@0.1.1...@trieb.work/prettier-base@0.1.2) (2021-11-26)
 
 **Note:** Version bump only for package @trieb.work/prettier-base

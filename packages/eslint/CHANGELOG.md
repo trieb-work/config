@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.10.0](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.9.0...@trieb.work/eslint-config-base@1.10.0) (2022-02-15)
+
+
+### Features
+
+* adding this dependency, that is needed with eslint plugin ([#139](https://github.com/trieb-work/config/issues/139)) ([30936bf](https://github.com/trieb-work/config/commit/30936bf045af0026e4dfe9aa0b0ae266da26a8d3))
+* change tabwidth to 4 ([de0b4cb](https://github.com/trieb-work/config/commit/de0b4cb909a518e42705a3679fd93be28c68b0d9))
+
+
+
+
+
 # [1.9.0](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.8.24...@trieb.work/eslint-config-base@1.9.0) (2022-02-15)
 
 
