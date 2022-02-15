@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.9.0](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.8.24...@trieb.work/eslint-config-base@1.9.0) (2022-02-15)
+
+
+### Features
+
+* adding this dependency, that is needed with eslint plugin ([#139](https://github.com/trieb-work/config/issues/139)) ([30936bf](https://github.com/trieb-work/config/commit/30936bf045af0026e4dfe9aa0b0ae266da26a8d3))
+
+
+
+
+
 ## [1.8.24](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.8.23...@trieb.work/eslint-config-base@1.8.24) (2022-01-24)
 
 **Note:** Version bump only for package @trieb.work/eslint-config-base
