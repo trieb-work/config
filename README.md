@@ -38,6 +38,12 @@ module.exports = {
 }
 EOF
 
+# .prettierignore
+cat <<EOF > .prettierignore
+dist
+.next
+EOF
+
 # .commitlintrc.json
 cat <<EOF > .commitlintrc.json
 {
