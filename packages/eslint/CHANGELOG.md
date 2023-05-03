@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.13.0](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.12.0...@trieb.work/eslint-config-base@1.13.0) (2023-05-03)
+
+
+### Bug Fixes
+
+* making the typescript deps more generic ([e821788](https://github.com/trieb-work/config/commit/e8217882bcda1bbb5f43f12bf553129e45c38719))
+
+
+### Features
+
+* version bump major ([9c6c0ef](https://github.com/trieb-work/config/commit/9c6c0ef0e99f24c07431ac09a648794134e561b4))
+
+
+
+
+
 # [1.12.0](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.11.3...@trieb.work/eslint-config-base@1.12.0) (2023-05-03)
 
 
