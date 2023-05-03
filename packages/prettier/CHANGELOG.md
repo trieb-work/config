@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/trieb-work/config/compare/@trieb.work/prettier-base@0.2.0...@trieb.work/prettier-base@0.3.0) (2023-05-03)
+
+
+### Features
+
+* version bump major ([9c6c0ef](https://github.com/trieb-work/config/commit/9c6c0ef0e99f24c07431ac09a648794134e561b4))
+
+
+
+
+
 # 0.2.0 (2022-02-15)
 
 
