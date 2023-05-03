@@ -21,6 +21,6 @@
   },
   "gitHead": "7457481f728ffca01d34193c98bf65c3f3ff4aeb",
   "peer-dependencies": {
-    "typescript": "^4.2.3"
+    "typescript": "*"
   }
 }
