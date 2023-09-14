@@ -1,39 +1,39 @@
 {
-  "name": "@trieb.work/eslint-config-base",
-  "version": "1.13.3",
-  "description": "Default eslint config designed to be used on typescript projects.",
-  "author": "Andreas Thomas <dev@chronark.com>",
-  "homepage": "https://github.com/trieb-work/config/tree/main/packages/eslint#readme",
-  "license": "MIT",
-  "main": ".eslintrc.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/trieb-work/config.git"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "bugs": {
-    "url": "https://github.com/trieb-work/config/issues"
-  },
-  "files": [
-    "./eslintrc.js"
-  ],
-  "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.59.2",
-    "@typescript-eslint/parser": "^5.59.2",
-    "eslint-config-airbnb": "^19.0.4",
-    "eslint-config-airbnb-typescript": "^17.0.0",
-    "eslint-config-prettier": "^8.8.0",
-    "eslint-plugin-import": "^2.27.5",
-    "eslint-plugin-jsx-a11y": "^6.7.1",
-    "eslint-plugin-prettier": "^5.0.0",
-    "eslint-plugin-react": "^7.32.2",
-    "eslint-plugin-react-hooks": "^4.2.0"
-  },
-  "peerDependencies": {
-    "eslint": "^8.0.0",
-    "typescript": "*"
-  },
-  "gitHead": "4700afa2848a23c257dad3379d2ac3a83359cbc7"
+    "name": "@trieb.work/eslint-config-base",
+    "version": "1.13.4",
+    "description": "Default eslint config designed to be used on typescript projects.",
+    "author": "Andreas Thomas <dev@chronark.com>",
+    "homepage": "https://github.com/trieb-work/config/tree/main/packages/eslint#readme",
+    "license": "MIT",
+    "main": ".eslintrc.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/trieb-work/config.git"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "bugs": {
+        "url": "https://github.com/trieb-work/config/issues"
+    },
+    "files": [
+        "./eslintrc.js"
+    ],
+    "dependencies": {
+        "@typescript-eslint/eslint-plugin": "^5.59.2",
+        "@typescript-eslint/parser": "^5.59.2",
+        "eslint-config-airbnb": "^19.0.4",
+        "eslint-config-airbnb-typescript": "^17.0.0",
+        "eslint-config-prettier": "^8.8.0",
+        "eslint-plugin-import": "^2.27.5",
+        "eslint-plugin-jsx-a11y": "^6.7.1",
+        "eslint-plugin-prettier": "^5.0.0",
+        "eslint-plugin-react": "^7.32.2",
+        "eslint-plugin-react-hooks": "^4.2.0"
+    },
+    "peerDependencies": {
+        "eslint": "^8.0.0",
+        "typescript": "*"
+    },
+    "gitHead": "4700afa2848a23c257dad3379d2ac3a83359cbc7"
 }
