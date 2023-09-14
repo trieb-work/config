@@ -17,7 +17,7 @@
     "url": "https://github.com/trieb-work/config/issues"
   },
   "devDependencies": {
-    "lerna": "^6.6.1",
+    "lerna": "^7.2.0",
     "prettier": "^2.8.8"
   }
 }
