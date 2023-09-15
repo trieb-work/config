@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.14.1](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.14.0...@trieb.work/eslint-config-base@1.14.1) (2023-09-15)
+
+
+### Bug Fixes
+
+* trying to integrate react here ([0520a58](https://github.com/trieb-work/config/commit/0520a5803a675b5e0b9ac79e337d7b012ee0b607))
+
+
+
+
+
 # [1.14.0](https://github.com/trieb-work/config/compare/@trieb.work/eslint-config-base@1.13.5...@trieb.work/eslint-config-base@1.14.0) (2023-09-15)
 
 
