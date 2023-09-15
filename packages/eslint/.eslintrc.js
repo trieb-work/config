@@ -22,6 +22,11 @@ module.exports = {
      * Required to integrate prettier into eslint
      */
     "plugin:prettier/recommended",
+
+    /**
+     * Integrate react recommended rules
+     */
+    "plugin:react/recommended"
   ],
   rules: {
     /*
