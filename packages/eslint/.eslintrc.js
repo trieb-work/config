@@ -32,8 +32,6 @@ module.exports = {
 
     "react/react-in-jsx-scope": "off",
 
-    "react/jsx-filename-extension": [1, { extensions: [".ts", ".tsx"] }],
-
     /*
      * Named exports are almost always better because they break when the imported module changes
      */
